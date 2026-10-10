@@ -326,6 +326,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
 - [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
+- [Droidline](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
 
 ### Tracking
 
